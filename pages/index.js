@@ -79,7 +79,7 @@ const Home = () => (
           Hello
         </Heading>
         <Paragraph>
-          I am a 5th sem student pursuing Bachelors in Computer science studies with a specialization of Software, from CGU bhubaneswar. I am a Tech enthusiast, Web-Android developer,Freelancer and a part-time Youtuber. I love to play around with algorithms and data structures with a knack of Android Development as well, currently I'm sharpening my grip over Java Full-stack development. I am looking forward to a challenging and growth oriented career that could help me enhance and administer my technical skills for providing solutions to real life problems in a dynamic and versatile workplace. When not online, i loves
+          I am a 5th sem student pursuing Bachelors in Computer science studies with a specialization of Software, from CGU bhubaneswar. I am a Tech enthusiast, Web-Android developer,Freelancer and a part-time Youtuber. I love to play around with algorithms and data structures with a knack of Android Development as well, currently I am sharpening my grip over Java Full-stack development. I am looking forward to a challenging and growth oriented career that could help me enhance and administer my technical skills for providing solutions to real life problems in a dynamic and versatile workplace. When not online, i loves
           play games. Currently, I am Learning and making projects + contribution. Check this - {' '}
           <NextLink href="/works/inkdrop" passHref scroll={false}>
             <Link>Work</Link>
@@ -145,7 +145,7 @@ const Home = () => (
 
       <Section delay={0.3}>
         <Heading as="h3" variant="section-title">
-          Let's Connect 
+          Lets Connect 
         </Heading>
         <List>
           <ListItem>

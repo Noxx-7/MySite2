@@ -1,16 +1,14 @@
 import {
-  Box,
+  
   Container,
   Badge,
   Link,
   List,
   ListItem,
-  UnorderedList,
-  Heading,
-  Center
+  
 } from '@chakra-ui/react'
 import { ExternalLinkIcon } from '@chakra-ui/icons'
-import { Title, WorkImage, Meta } from '../../components/work'
+import { Title, Meta } from '../../components/work'
 import P from '../../components/paragraph'
 import Layout from '../../components/layouts/article'
 
@@ -21,7 +19,7 @@ const Work = () => (
       Java Quiz Software  <Badge>2021</Badge>
       </Title>
       <P>
-      I made this project in my Sophomore Year. It is written in JAVA using Swing and Awt GUI framework. It is a simple Quiz application which requires candidate's details and then the MCQ test follows. After the completion of test the result is displayed with candidate's detail.
+      I made this project in my Sophomore Year. It is written in JAVA using Swing and Awt GUI framework. It is a simple Quiz application which requires candidates details and then the MCQ test follows. After the completion of test the result is displayed with candidates detail.
 
 
       </P>
