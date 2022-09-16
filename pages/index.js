@@ -4,6 +4,7 @@ import {
   Container,
   Heading,
   Box,
+  
   SimpleGrid,
   Button,
   List,
@@ -123,7 +124,7 @@ const Home = () => (
         </BioSection>
         <BioSection>
           <BioYear>2020 to present</BioYear>
-          Studying B.Tech in C.V Raman Global University
+          pursuing B.Tech in C.V Raman Global University
         </BioSection>
       </Section>
 
