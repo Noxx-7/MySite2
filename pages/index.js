@@ -4,7 +4,7 @@ import {
   Container,
   Heading,
   Box,
-  
+
   SimpleGrid,
   Button,
   List,
@@ -77,11 +77,10 @@ const Home = () => (
 
       <Section delay={0.1}>
         <Heading as="h3" variant="section-title">
-        Namaste
+          Namaste
         </Heading>
         <Paragraph>
-          I am a 5th sem student pursuing Bachelors in Computer science studies with a specialization of Software, from CGU bhubaneswar. I am a Tech enthusiast, Web-Android developer,Freelancer and a part-time Youtuber. I love to play around with algorithms and data structures with a knack of Android Development as well, currently I am sharpening my grip over Java Full-stack development. I am looking forward to a challenging and growth oriented career that could help me enhance and administer my technical skills for providing solutions to real life problems in a dynamic and versatile workplace. When not online, i loves
-          play games. Currently, I am Learning and making projects + contribution. Check this - {' '}
+        I'm a 5th semester student pursuing a Bachelor's in Computer Science with a specialization in Software at CGU Bhubaneswar. I'm a tech enthusiast, web-android developer, freelancer, and part-time YouTuber. In addition to playing around with algorithms and data structures, I'm learning DevOps. I'm looking for a challenging, growth-oriented job where I can apply my technical skills to solve real-life problems in a flexible and dynamic environment. I like to read when I'm not online. I'm learning and contributing to projects right now. You should check this out {' '}
           <NextLink href="/works/inkdrop" passHref scroll={false}>
             <Link>Work</Link>
           </NextLink>
@@ -89,12 +88,12 @@ const Home = () => (
           channel called &quot;
           <NextLink href="https://www.youtube.com/channel/UCS4IkTAy5uw-BRQXFsnt0xw/videos" passHref>
             <Link target="_blank">TechNox</Link>
-            
+
           </NextLink>
           &quot; and
           <NextLink href="https://www.youtube.com/channel/UCgk3qHyHZKhcIc7U6lp0RHg" passHref>
             <Link target="_blank"> Vlognox</Link>
-            
+
           </NextLink>
         </Paragraph>
         <Box align="center" my={4}>
@@ -134,19 +133,19 @@ const Home = () => (
         </Heading>
         <Paragraph>
           <Link href="https://instagram.com/___sketch7?igshid=YmMyMTA2M2Y=/" target="_blank">
-           Drawing {' '}
+            Drawing {' '}
           </Link>
           and {'  '}
           <Link href="https://www.youtube.com/channel/UCtMSWqLw2pf9dFHDcNkURUQ" target="_blank">
-             Gaming
+            Gaming
           </Link>
-          
+
         </Paragraph>
       </Section>
 
       <Section delay={0.3}>
         <Heading as="h3" variant="section-title">
-          Lets Connect 
+          Lets Connect
         </Heading>
         <List>
           <ListItem>
@@ -184,7 +183,7 @@ const Home = () => (
             </Link>
           </ListItem>
         </List>
-        
+
 
         <SimpleGrid columns={[1, 2, 2]} gap={6}>
           <GridItem
@@ -192,7 +191,7 @@ const Home = () => (
             title="TechNox"
             thumbnail={thumbYouTube}
           >
-            My YouTube channel 
+            My YouTube channel
           </GridItem>
           <GridItem
             href="https://www.linkedin.com/in/rahul-sharma-603935182/"
