@@ -1,4 +1,4 @@
-# Rahul's Homepage
+<!-- # Rahul's Homepage
 
 
 ## Tutorial
@@ -34,4 +34,13 @@ $PROJECT_ROOT
 
 
 
+ -->
 
+
+Name : Rahul Sharma ( Noxx-7 ) <br />
+School/College : C.V Raman Global University <br />
+GitHub Username : Noxx-7 <br />
+GitHub Profile URL : https://github.com/Noxx-7 <br />
+Tech Stack : JavaScript
+
+![](preview.png)
