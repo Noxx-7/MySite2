@@ -1,4 +1,4 @@
-<!-- # Rahul's Homepage
+# Rahul's Homepage
 
 
 ## Tutorial
@@ -34,7 +34,7 @@ $PROJECT_ROOT
 
 
 
- -->
+
 
 
 Name : Rahul Sharma ( Noxx-7 ) <br />
